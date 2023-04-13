@@ -1,0 +1,5 @@
+apiVersion: v2
+name: job-reaper
+description: Keeping Kubernetes Clean and Mean!
+type: application
+version: 0.1.0
