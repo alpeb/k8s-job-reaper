@@ -24,8 +24,7 @@ so no cigar.
 
 After some trial and error I settled with leaving `completions` unset. That
 indeed marks the Job as completed when the first Pod finishes, but it leaves the
-other Pods running, which in my particular case that resulted in wasted
-resources.
+other Pods running, which in my particular case resulted in wasted resources.
 
 ## The Problem
 
